@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Programador FullStack com conhecimento e experiencia de desenvolvinto de aplicações Web, Desktop para Windows por meio de diversas tecnologias como C#, .NET, Visual Basic, SQL Server, HTML, JavaScript, CSS.
+Programador FullStack com conhecimento e experiencia de desenvolvinto de aplicações Web, Desktop para Windows por meio de diversas tecnologias como C#, .NET, ASP.NET, SQL Server, HTML, JavaScript, CSS, Visual Basic, Visual Basic for Application (VBA).
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -20,6 +20,14 @@ Programador FullStack com conhecimento e experiencia de desenvolvinto de aplica�
         />
     </a>
 </p>
+
+---
+
+### Meus projetos 
+
+Abaixo a relação dos principais projetos pessoais :
+
+ArmsFW : [![NuGet](https://img.shields.io/nuget/v/ArmsFW.svg)](https://www.nuget.org/packages/ArmsFW/)
 
 ---
 
